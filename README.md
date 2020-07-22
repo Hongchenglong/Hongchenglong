@@ -1,7 +1,9 @@
 ### Hi there 👋
+
 I am Hongchenglong, a student.
 
 [![Image](https://github.com/hongchenglong/hongchenglong/blob/master/image.png?raw=true)](https://github.com/hongchenglong)
+
 <!--
 **Hongchenglong/Hongchenglong** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
