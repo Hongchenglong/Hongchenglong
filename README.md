@@ -1,6 +1,8 @@
 ### Hi there 👋
 
-I am Hongchenglong, a student.
+I am Hongchenglong, a student, a woker, a coder.
+
+- 🌱 I’m currently learning Java.
 
 [![Image](https://github.com/hongchenglong/hongchenglong/blob/master/image.png?raw=true)](https://github.com/hongchenglong)
 
