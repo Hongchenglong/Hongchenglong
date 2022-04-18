@@ -4,7 +4,7 @@ I am Hongchenglong, a student, a woker, a coder.
 
 - 🔭 I’m good at Java, Python.
 
-- 🌱 I’m currently learning Deep Learning.
+- 🌱 I’m currently learning blockchain and Deep Learning.
 
 [![Image](https://github.com/hongchenglong/hongchenglong/blob/master/image.png?raw=true)](https://github.com/hongchenglong)
 
