@@ -4,8 +4,9 @@
 
 - 🌱 I’m currently learning Blockchain and Federated Learning.
 
-![Hongchenglong's GitHub stats](https://github-readme-stats.vercel.app/api?username=Hongchenglong&count_private=true&show_icons=true)
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Hongchenglong&layout=compact&langs_count=8)
+
+![Hongchenglong's GitHub stats](https://github-readme-stats.vercel.app/api?username=Hongchenglong&count_private=true&show_icons=true)
 <!-- &hide=javascript,html,css,vue -->
 
 
